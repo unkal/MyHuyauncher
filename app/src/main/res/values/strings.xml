@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyHuyauncher</string>
+    <string name="overlay_button">Приложения</string>
+    <string name="permission_message">Чтобы показать кнопку приложений поверх экрана, разрешите отображение поверх других окон.</string>
+    <string name="permission_button">Разрешить</string>
+    <string name="notif_channel">Кнопка приложений</string>
+    <string name="notif_title">MyHuyauncher</string>
+    <string name="notif_text">Кнопка запуска приложений</string>
+    <string name="loading">Загрузка…</string>
+    <string name="no_apps">Нет приложений с иконкой запуска</string>
+    <string name="other_apps">Остальные приложения</string>
+    <string name="hide_widget">Скрыть</string>
+</resources>
